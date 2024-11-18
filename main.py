@@ -3,3 +3,4 @@
 # Ative o ambiente virtual no terminal: venv\Scripts\Activate
 # Instale o flask no termina: pip install flask
 # Ser for preciso, ative novamente o ambiente virtual no terminal: venv\Scripts\Activate
+    
